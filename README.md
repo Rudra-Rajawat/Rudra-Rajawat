@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh Rajawat</h1>
-<h3 align="center">Software Engineer | Android (Kotlin, Jetpack Compose) • Java/Spring Boot • React</h3>
+<h3 align="center">Software Engineer | • Android • Java/Spring Boot • React</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-rajawat-/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
