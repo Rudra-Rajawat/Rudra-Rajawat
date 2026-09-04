@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=YOUR-LEETCODE&theme=default&hide_border=true" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Rudra_Rajawat?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
