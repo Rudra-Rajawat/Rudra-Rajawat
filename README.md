@@ -2,22 +2,22 @@
 <h3 align="center">Software Engineer | Android (Kotlin, Jetpack Compose) • Java/Spring Boot • React</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:rudrarajawat001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Phone-8770076744-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/YOUR-GITHUB" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:rudrarajawat001@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://wa.me/918770076744" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Software Engineer at Cognizant Technology Solutions**, building customer-facing **insurance policy/claims** features and **Android apps** with Kotlin & Jetpack Compose
-- 🧩 Experienced across **two tracks**: native **Android development** (Kotlin, Jetpack Compose, MVVM, Coroutines/Flow, GraphQL) and **full-stack web development** (Java, Spring Boot, React, MySQL, RESTful/OpenAPI services)
-- ⚙️ Automated file-reprocessing workflows using **UiPath**, cutting cycle time by **50%** and removing manual intervention
-- 🎓 B.Tech in **Internet of Things**, Madhav Institute of Technology and Science, Gwalior — CGPA 8.4
-- 🌱 Currently deepening my expertise in **modular Android architecture, dependency injection (Koin), and clean API design**
-- ⚡ Fun fact: I enjoy building the same product twice — once as a native app, once as a web app!
+- 🔭 Software Engineer at **Cognizant Technology Solutions**, building insurance policy/claims features and Android apps with Kotlin & Jetpack Compose
+- 🧩 Comfortable across **native Android** (MVVM, Coroutines/Flow, GraphQL) and **full-stack web** (Spring Boot, React, MySQL)
+- ⚙️ Automated file-reprocessing workflows using **UiPath**, cutting cycle time by **50%**
 
 ---
 
@@ -30,7 +30,7 @@
 
 **Android / Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Koin-FF6B6B?style=for-the-badge" />
@@ -40,14 +40,14 @@
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
 </p>
 
 **Database**
@@ -92,6 +92,21 @@
 
 ---
 
+### 🧠 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/YOUR-HACKERRANK" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/YOUR-CODEFORCES" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR-GFG" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-card.vercel.app/api?username=YOUR-LEETCODE&theme=default&hide_border=true" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -102,15 +117,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&hide_border=true" />
 </p>
-
----
-
-### 🎓 Education
-
-**B.Tech, Internet of Things** — Madhav Institute of Technology and Science, Gwalior (2020 – 2024) · CGPA 8.4
-
-### 📜 Certificates
-- GitHub Copilot
 
 ---
 
