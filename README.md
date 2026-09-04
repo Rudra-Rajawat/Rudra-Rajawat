@@ -6,7 +6,6 @@
   &nbsp;
   <a href="mailto:rudrarajawat001@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" /></a>
   &nbsp;
-  <a href="https://wa.me/918770076744" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>
 </p>
 
 ---
