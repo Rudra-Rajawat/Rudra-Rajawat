@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer | Android (Kotlin, Jetpack Compose) • Java/Spring Boot • React</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/YOUR-GITHUB" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rudra-rajawat-/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:rudrarajawat001@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" /></a>
   &nbsp;
