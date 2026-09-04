@@ -14,7 +14,6 @@
 
 - 🔭 Software Engineer at **Cognizant Technology Solutions**, building insurance policy/claims features and Android apps with Kotlin & Jetpack Compose
 - 🧩 Comfortable across **native Android** (MVVM, Coroutines/Flow, GraphQL) and **full-stack web** (Spring Boot, React, MySQL)
-- ⚙️ Automated file-reprocessing workflows using **UiPath**, cutting cycle time by **50%**
 
 ---
 
