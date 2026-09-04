@@ -69,26 +69,6 @@
 
 ---
 
-### 💼 Professional Experience
-
-**Software Engineer — Cognizant Technology Solutions** · *Dec 2024 – Present · Chennai, India*
-- Developed customer-facing features for creating and managing **insurance policies/claims**
-- Enhanced front-end UX and back-end APIs following **OpenAPI (OAS)** standards
-- Automated file reprocessing with **UiPath**, reducing cycle time by 50%
-- Working hands-on with **Android (Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, GraphQL)** on the mobile track
-
----
-
-### 📌 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **TaskFlow** | Jetpack Compose, MVVM, Room, Koin | Full-featured to-do app with reactive UI (StateFlow), offline storage via Room, and NavController-based navigation |
-| **Financial Assistant** | Spring Boot, React | Expense tracker with category-based dashboards & dynamic charts, built via Agile sprints |
-| **Sprint Management Tool** | Spring Boot, React, MySQL | Sprint/meeting management portal with >80% test coverage (JUnit5, Mockito, TDD) and SonarQube quality gates |
-
----
-
 ### 🧠 Coding Profiles
 
 <p align="left">
@@ -100,19 +80,6 @@
 
 <p align="center">
   <img src="https://leetcode-stats-card.vercel.app/api?username=YOUR-LEETCODE&theme=default&hide_border=true" alt="LeetCode Stats" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&hide_border=true" />
 </p>
 
 ---
